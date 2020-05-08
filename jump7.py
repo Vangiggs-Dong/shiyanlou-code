@@ -10,4 +10,4 @@ for i in range(1,101):
     print(i)
     a+=1
 
-print('共有{}人'.format(a))##此自另加的功能
+print('共有{}人'.format(a))##此自另加的功能，计数
